@@ -1,8 +1,6 @@
-# React + Vite
+# Real Time Code editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a real-time code editor web application built with React for the front end and Node.js with Express and Socket.IO for the back end. It supports real-time collaboration, allowing multiple users to edit code simultaneously with syntax highlighting. The app features multiple coding rooms, and auto-saving capabilities. To get started, clone the repository, install dependencies for both the server and client, and run the app locally. This project provides a strong foundation for building collaborative coding platforms. Contributions are welcome!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live website ,you can access on this link
+https://realtime-codeeditor-9e8x.onrender.com/
